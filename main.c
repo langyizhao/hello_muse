@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-static char text[] = "Hello Muse!";
+static char text[] = "Hello Sonatype Lift !";
 
 int main() {
     char * printme = text;
